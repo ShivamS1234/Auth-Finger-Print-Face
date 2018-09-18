@@ -1,0 +1,6 @@
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Plugin.Fingerprint.Abstractions/bin/Debug/Plugin.Fingerprint.Abstractions.dll
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Plugin.Fingerprint.Abstractions/bin/Debug/Plugin.Fingerprint.Abstractions.pdb
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Plugin.Fingerprint.Abstractions/obj/Debug/Plugin.Fingerprint.Abstractions.csprojResolveAssemblyReference.cache
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Plugin.Fingerprint.Abstractions/obj/Debug/Plugin.Fingerprint.Abstractions.csproj.CoreCompileInputs.cache
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Plugin.Fingerprint.Abstractions/obj/Debug/Plugin.Fingerprint.Abstractions.dll
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Plugin.Fingerprint.Abstractions/obj/Debug/Plugin.Fingerprint.Abstractions.pdb

@@ -1,0 +1,6 @@
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Plugin.Fingerprint.Android.Samsung/bin/Debug/Plugin.Fingerprint.Android.Samsung.dll
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Plugin.Fingerprint.Android.Samsung/bin/Debug/Plugin.Fingerprint.Android.Samsung.pdb
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Plugin.Fingerprint.Android.Samsung/obj/Debug/Plugin.Fingerprint.Android.Samsung.csprojResolveAssemblyReference.cache
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Plugin.Fingerprint.Android.Samsung/obj/Debug/Plugin.Fingerprint.Android.Samsung.csproj.CoreCompileInputs.cache
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Plugin.Fingerprint.Android.Samsung/obj/Debug/Plugin.Fingerprint.Android.Samsung.dll
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Plugin.Fingerprint.Android.Samsung/obj/Debug/Plugin.Fingerprint.Android.Samsung.pdb

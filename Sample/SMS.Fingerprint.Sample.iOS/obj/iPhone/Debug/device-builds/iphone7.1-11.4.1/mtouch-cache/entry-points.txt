@@ -1,0 +1,29 @@
+Function=xamarin_timezone_get_data
+	/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample.iOS/obj/iPhone/Debug/device-builds/iphone7.1-11.4.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample.iOS/obj/iPhone/Debug/device-builds/iphone7.1-11.4.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample.iOS/obj/iPhone/Debug/device-builds/iphone7.1-11.4.1/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample.iOS/obj/iPhone/Debug/device-builds/iphone7.1-11.4.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample.iOS/obj/iPhone/Debug/device-builds/iphone7.1-11.4.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample.iOS/obj/iPhone/Debug/device-builds/iphone7.1-11.4.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample.iOS/obj/iPhone/Debug/device-builds/iphone7.1-11.4.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample.iOS/obj/iPhone/Debug/device-builds/iphone7.1-11.4.1/mtouch-cache/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample.iOS/obj/iPhone/Debug/device-builds/iphone7.1-11.4.1/mtouch-cache/Link/System.dll
+Function=CloseZStream
+	/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample.iOS/obj/iPhone/Debug/device-builds/iphone7.1-11.4.1/mtouch-cache/Link/System.dll
+Function=Flush
+	/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample.iOS/obj/iPhone/Debug/device-builds/iphone7.1-11.4.1/mtouch-cache/Link/System.dll
+Function=ReadZStream
+	/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample.iOS/obj/iPhone/Debug/device-builds/iphone7.1-11.4.1/mtouch-cache/Link/System.dll
+Function=WriteZStream
+	/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample.iOS/obj/iPhone/Debug/device-builds/iphone7.1-11.4.1/mtouch-cache/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample.iOS/obj/iPhone/Debug/device-builds/iphone7.1-11.4.1/mtouch-cache/Link/System.dll
+Function=mono_pmip

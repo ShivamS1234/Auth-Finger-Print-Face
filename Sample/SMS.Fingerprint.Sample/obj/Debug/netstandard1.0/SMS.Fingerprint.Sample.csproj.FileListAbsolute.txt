@@ -1,0 +1,15 @@
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample/bin/Debug/netstandard1.0/SMS.Fingerprint.Sample.deps.json
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample/bin/Debug/netstandard1.0/SMS.Fingerprint.Sample.dll
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample/bin/Debug/netstandard1.0/SMS.Fingerprint.Sample.pdb
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample/bin/Debug/netstandard1.0/Plugin.Fingerprint.Abstractions.dll
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample/bin/Debug/netstandard1.0/Plugin.Fingerprint.dll
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample/bin/Debug/netstandard1.0/Plugin.Fingerprint.Abstractions.pdb
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample/bin/Debug/netstandard1.0/Plugin.Fingerprint.xml
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample/obj/Debug/netstandard1.0/SMS.Fingerprint.Sample.csprojResolveAssemblyReference.cache
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample/obj/Debug/netstandard1.0/SMS.Fingerprint.Sample.csproj.CoreCompileInputs.cache
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample/obj/Debug/netstandard1.0/SMS.Fingerprint.Sample.MainView.xaml.g.cs
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample/obj/Debug/netstandard1.0/SMS.Fingerprint.Sample.SecretView.xaml.g.cs
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample/obj/Debug/netstandard1.0/SMS.Fingerprint.Sample.AssemblyInfoInputs.cache
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample/obj/Debug/netstandard1.0/SMS.Fingerprint.Sample.AssemblyInfo.cs
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample/obj/Debug/netstandard1.0/SMS.Fingerprint.Sample.dll
+/Users/virtualemployee/Downloads/xamarin-fingerprint-master/src/Sample/SMS.Fingerprint.Sample/obj/Debug/netstandard1.0/SMS.Fingerprint.Sample.pdb
